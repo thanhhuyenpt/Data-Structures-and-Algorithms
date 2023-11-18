@@ -18,12 +18,25 @@
     * Elements are arranged in one-many, many-one, and many-many dimensions.
     * Example: tree, graph, table, etc.
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
+![](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)*source: [GeeksforGeeks: Introduction to Data Structures](https://www.geeksforgeeks.org/introduction-to-data-structures/)*
 
 ## Most popular data structures:
 
 In this repository, I will cover the following data structures:
 
-1. [Array](./array/)
-2. 
+* [Array](./array/)
+* [String](./string/)
+* [Linked List](./linked_list)
+* [Matrix/Grid](./matrix_grid/)
+* [Stack](./stack/)
+* [Queue](./queue/)
+* [Heap](./heap/)
+* [Hash](./hash/)
+* [Binary Tree](./binary_tree/)
+* [Trie](./trie/)
+* [Graph](./graph/)
+* [Disjoint Set](./disjoint_set)
+
+## Sources:
+
 
