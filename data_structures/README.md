@@ -4,7 +4,7 @@
 
 * A data structure is **a particular way of organizing data** in a computer so that it can be used efficiently. 
 * The main idea behind using data structures is to **minimize the time and space complexities**.
-* It is used for organizing data, processing, retrieving, and storing data.
+* It is used for **organizing, processing, retrieving, and storing data**.
 
 ## Classification/Types of Data Structures
 
@@ -23,4 +23,7 @@
 ## Most popular data structures:
 
 In this repository, I will cover the following data structures:
+
+1. [Array](./array/)
+2. 
 
