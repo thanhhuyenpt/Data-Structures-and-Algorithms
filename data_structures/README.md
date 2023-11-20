@@ -8,19 +8,29 @@
 
 ## Classification/Types of Data Structures
 
-1. Linear Data Structure
-  
-   * Elements are arranged in one dimension (linear dimension).
-   * Example: lists, stack, queue, etc.
+We can classify data structures in different ways based on the use case and properties.
 
-2. Non-Linear Data Structure
+### Primitive data structures
+   
+   * **A primitive data structure is full of bits representing the actual value of a variable**. In another definition, it is a fundamental building block of data structures, storing data of only one type or holding a single value in a specific memory location.
+   * Example: **boolean** (true or false), **char** (16 bits), **byte** (8 bits), **short** (16 bits), **int** (32 bits), **long** (64 bits), **float** (32 bits), **double** (64 bits).
+
+### Non-primitive data structures
+
+  * Non-primitive data structures can **store more than one type of data in a contiguous or random memory location**.
+  * Based on the order of organizing and accessing data, non-primitive data structures can be classified into two categories: Linear Data Structure, and Non-linear Data Structure
+   
+1. **Linear Data Structure**
+
+    * Elements are arranged in one dimension (linear dimension).
+    * Example: lists, stack, queue, etc.
+
+2. **Non-Linear Data Structure**
 
     * Elements are arranged in one-many, many-one, and many-many dimensions.
     * Example: tree, graph, table, etc.
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
-
-*source: [GeeksforGeeks: Introduction to Data Structures](https://www.geeksforgeeks.org/introduction-to-data-structures/)*
+![](https://ucarecdn.com/e9242210-e0c4-43e3-a5d6-85df82166964/)
 
 ## Most popular data structures:
 
@@ -39,6 +49,9 @@ In this repository, I will cover the following data structures:
 * [Graph](./graph/)
 * [Disjoint Set](./disjoint_set)
 
-## Sources:
+## Resources:
 
+1. https://www.enjoyalgorithms.com/blog/introduction-to-data-structures
+2. https://www.geeksforgeeks.org/introduction-to-data-structures/
+3. https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H
 
